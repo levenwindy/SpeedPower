@@ -1,6 +1,6 @@
 Other languages:
 
-- [Chinese Simplified](README.md)(README.md)
+- [简体中文](README.md)
 - [English](README.en.md)
 
 -----
